@@ -1,2 +1,2 @@
 # React-Idojaras-gyakorlas
-React időjárás api gyakorlása
+React Időjárás előrejelzés gyakorlása
